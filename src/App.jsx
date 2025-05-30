@@ -1,5 +1,6 @@
 
 import './App.css'
+// import ChecklistForm from './CheckListForm'
 // import UseRefExample from './UseRefExample'
 // import ReduxCounter from './ReduxCounter'
 // import DataFetcher from './Component/DataFetcher'
@@ -40,8 +41,11 @@ function App() {
      {/* <FruitList></FruitList>
      <UserList></UserList>
      <DataFetcher></DataFetcher> */}
-      {/* <UseRefExample></UseRefExample> */}
+      {
+      /* <UseRefExample></UseRefExample> */}
+       <ChecklistForm></ChecklistForm>
     </>
+  
   )
 }
 
